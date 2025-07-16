@@ -1,0 +1,501 @@
+ID_proveedor,Nombre_proveedor,Tipo_servicio,Riesgo_operativo,Riesgo_tecnologico,Riesgo_legal,Riesgo_ciberseguridad,Incidentes_previos,Cumple_normativas
+P0001,Proveedor_1,ConsultorÃ­a,4,1,1,4,0,SÃ­
+P0002,Proveedor_2,Infraestructura TI,2,1,1,3,0,SÃ­
+P0003,Proveedor_3,Seguridad,4,4,1,3,2,SÃ­
+P0004,Proveedor_4,Seguridad,4,4,5,1,2,SÃ­
+P0005,Proveedor_5,Soporte,3,3,1,4,0,SÃ­
+P0006,Proveedor_6,ConsultorÃ­a,4,2,5,5,2,SÃ­
+P0007,Proveedor_7,Infraestructura TI,1,5,5,5,0,SÃ­
+P0008,Proveedor_8,Soporte,3,5,1,2,2,SÃ­
+P0009,Proveedor_9,LogÃ­stica,1,5,3,2,1,SÃ­
+P0010,Proveedor_10,Soporte,2,3,4,5,0,No
+P0011,Proveedor_11,Soporte,3,4,2,5,0,SÃ­
+P0012,Proveedor_12,ConsultorÃ­a,2,3,5,4,2,No
+P0013,Proveedor_13,LogÃ­stica,3,5,4,3,1,No
+P0014,Proveedor_14,Soporte,5,2,3,2,1,SÃ­
+P0015,Proveedor_15,Infraestructura TI,4,1,2,3,1,SÃ­
+P0016,Proveedor_16,Infraestructura TI,5,4,2,4,1,SÃ­
+P0017,Proveedor_17,Seguridad,2,4,5,5,2,SÃ­
+P0018,Proveedor_18,LogÃ­stica,4,3,1,3,2,SÃ­
+P0019,Proveedor_19,LogÃ­stica,3,4,3,5,1,SÃ­
+P0020,Proveedor_20,Seguridad,4,5,5,5,0,SÃ­
+P0021,Proveedor_21,Soporte,1,5,3,1,1,SÃ­
+P0022,Proveedor_22,LogÃ­stica,4,3,1,3,0,SÃ­
+P0023,Proveedor_23,Infraestructura TI,1,5,1,3,1,SÃ­
+P0024,Proveedor_24,Infraestructura TI,4,2,5,5,3,SÃ­
+P0025,Proveedor_25,ConsultorÃ­a,1,3,1,4,0,SÃ­
+P0026,Proveedor_26,LogÃ­stica,2,2,4,1,1,SÃ­
+P0027,Proveedor_27,Soporte,5,1,2,5,2,SÃ­
+P0028,Proveedor_28,Seguridad,3,2,5,2,1,SÃ­
+P0029,Proveedor_29,Seguridad,4,1,3,2,2,SÃ­
+P0030,Proveedor_30,Soporte,5,1,4,1,1,SÃ­
+P0031,Proveedor_31,Servicios Legales,3,2,5,4,4,SÃ­
+P0032,Proveedor_32,ConsultorÃ­a,3,3,1,5,2,SÃ­
+P0033,Proveedor_33,Seguridad,1,5,1,3,1,SÃ­
+P0034,Proveedor_34,LogÃ­stica,2,5,1,1,2,SÃ­
+P0035,Proveedor_35,ConsultorÃ­a,2,1,1,4,0,SÃ­
+P0036,Proveedor_36,LogÃ­stica,5,1,3,3,1,SÃ­
+P0037,Proveedor_37,Infraestructura TI,2,3,4,2,1,SÃ­
+P0038,Proveedor_38,ConsultorÃ­a,4,4,2,2,0,No
+P0039,Proveedor_39,Seguridad,2,2,3,3,1,SÃ­
+P0040,Proveedor_40,ConsultorÃ­a,5,1,3,1,3,SÃ­
+P0041,Proveedor_41,ConsultorÃ­a,2,5,2,2,1,SÃ­
+P0042,Proveedor_42,ConsultorÃ­a,4,3,2,5,0,SÃ­
+P0043,Proveedor_43,Servicios Legales,1,2,1,3,0,SÃ­
+P0044,Proveedor_44,ConsultorÃ­a,5,3,3,3,0,SÃ­
+P0045,Proveedor_45,LogÃ­stica,1,2,5,2,2,SÃ­
+P0046,Proveedor_46,Infraestructura TI,1,2,2,1,4,SÃ­
+P0047,Proveedor_47,Soporte,1,1,2,5,1,SÃ­
+P0048,Proveedor_48,ConsultorÃ­a,3,3,4,1,1,No
+P0049,Proveedor_49,Seguridad,3,3,5,4,1,No
+P0050,Proveedor_50,ConsultorÃ­a,1,5,5,4,2,SÃ­
+P0051,Proveedor_51,Seguridad,5,5,2,2,1,SÃ­
+P0052,Proveedor_52,LogÃ­stica,4,1,1,2,1,SÃ­
+P0053,Proveedor_53,Seguridad,4,1,4,2,2,SÃ­
+P0054,Proveedor_54,Soporte,2,4,5,4,0,SÃ­
+P0055,Proveedor_55,Infraestructura TI,5,5,2,1,1,SÃ­
+P0056,Proveedor_56,Seguridad,3,2,5,1,2,SÃ­
+P0057,Proveedor_57,Seguridad,1,3,4,2,1,No
+P0058,Proveedor_58,Infraestructura TI,2,1,4,5,1,SÃ­
+P0059,Proveedor_59,Soporte,4,3,3,1,1,SÃ­
+P0060,Proveedor_60,ConsultorÃ­a,3,3,2,4,1,SÃ­
+P0061,Proveedor_61,Seguridad,3,4,4,3,1,SÃ­
+P0062,Proveedor_62,Infraestructura TI,1,5,3,3,2,SÃ­
+P0063,Proveedor_63,LogÃ­stica,4,1,3,3,1,SÃ­
+P0064,Proveedor_64,Infraestructura TI,5,3,5,5,0,SÃ­
+P0065,Proveedor_65,LogÃ­stica,3,1,5,2,1,No
+P0066,Proveedor_66,Soporte,1,2,3,4,1,SÃ­
+P0067,Proveedor_67,ConsultorÃ­a,5,4,5,5,3,SÃ­
+P0068,Proveedor_68,Infraestructura TI,4,2,4,4,1,SÃ­
+P0069,Proveedor_69,Servicios Legales,3,1,1,4,0,No
+P0070,Proveedor_70,Seguridad,5,1,4,2,1,SÃ­
+P0071,Proveedor_71,Soporte,5,5,3,3,2,SÃ­
+P0072,Proveedor_72,Infraestructura TI,5,3,3,2,0,No
+P0073,Proveedor_73,Seguridad,3,3,4,5,0,SÃ­
+P0074,Proveedor_74,Infraestructura TI,3,2,5,5,2,No
+P0075,Proveedor_75,LogÃ­stica,2,4,5,5,0,SÃ­
+P0076,Proveedor_76,Infraestructura TI,4,3,3,2,0,SÃ­
+P0077,Proveedor_77,Servicios Legales,1,5,2,4,1,SÃ­
+P0078,Proveedor_78,Infraestructura TI,5,2,5,4,1,SÃ­
+P0079,Proveedor_79,Infraestructura TI,2,2,4,1,1,SÃ­
+P0080,Proveedor_80,Servicios Legales,1,5,5,5,2,SÃ­
+P0081,Proveedor_81,Soporte,2,4,4,4,0,SÃ­
+P0082,Proveedor_82,Infraestructura TI,3,5,3,1,1,SÃ­
+P0083,Proveedor_83,Servicios Legales,5,4,5,4,0,No
+P0084,Proveedor_84,Seguridad,1,5,4,5,3,No
+P0085,Proveedor_85,LogÃ­stica,1,5,3,3,1,SÃ­
+P0086,Proveedor_86,LogÃ­stica,1,1,2,5,0,No
+P0087,Proveedor_87,Infraestructura TI,1,2,4,2,1,SÃ­
+P0088,Proveedor_88,Soporte,1,5,2,4,2,SÃ­
+P0089,Proveedor_89,Soporte,2,5,2,4,1,SÃ­
+P0090,Proveedor_90,Seguridad,5,3,1,2,0,SÃ­
+P0091,Proveedor_91,Infraestructura TI,3,2,5,2,2,SÃ­
+P0092,Proveedor_92,LogÃ­stica,3,3,4,3,2,SÃ­
+P0093,Proveedor_93,Soporte,3,2,2,4,1,SÃ­
+P0094,Proveedor_94,Infraestructura TI,3,3,1,4,2,SÃ­
+P0095,Proveedor_95,Soporte,2,5,3,3,0,SÃ­
+P0096,Proveedor_96,Servicios Legales,4,5,4,1,1,No
+P0097,Proveedor_97,Soporte,5,1,2,3,1,SÃ­
+P0098,Proveedor_98,LogÃ­stica,1,3,5,5,3,No
+P0099,Proveedor_99,ConsultorÃ­a,4,4,1,4,1,No
+P0100,Proveedor_100,Seguridad,3,1,2,2,0,No
+P0101,Proveedor_101,Seguridad,4,3,5,5,1,No
+P0102,Proveedor_102,LogÃ­stica,5,3,2,4,2,No
+P0103,Proveedor_103,Soporte,1,1,4,3,1,SÃ­
+P0104,Proveedor_104,Infraestructura TI,1,5,4,5,0,SÃ­
+P0105,Proveedor_105,Soporte,5,3,4,4,3,SÃ­
+P0106,Proveedor_106,LogÃ­stica,5,5,1,1,2,SÃ­
+P0107,Proveedor_107,Seguridad,3,1,4,1,1,SÃ­
+P0108,Proveedor_108,Soporte,1,5,5,2,1,SÃ­
+P0109,Proveedor_109,Seguridad,4,2,2,4,2,No
+P0110,Proveedor_110,Infraestructura TI,2,4,3,1,2,No
+P0111,Proveedor_111,Seguridad,2,3,5,3,1,No
+P0112,Proveedor_112,Seguridad,5,4,5,4,2,SÃ­
+P0113,Proveedor_113,ConsultorÃ­a,3,5,4,3,1,SÃ­
+P0114,Proveedor_114,ConsultorÃ­a,2,3,1,3,0,SÃ­
+P0115,Proveedor_115,Servicios Legales,1,5,2,1,1,SÃ­
+P0116,Proveedor_116,ConsultorÃ­a,5,2,1,4,0,SÃ­
+P0117,Proveedor_117,Seguridad,4,1,2,5,0,SÃ­
+P0118,Proveedor_118,LogÃ­stica,5,3,2,1,0,No
+P0119,Proveedor_119,Seguridad,4,2,1,1,0,SÃ­
+P0120,Proveedor_120,LogÃ­stica,5,2,5,4,1,SÃ­
+P0121,Proveedor_121,LogÃ­stica,5,3,2,4,3,SÃ­
+P0122,Proveedor_122,ConsultorÃ­a,5,5,1,3,2,SÃ­
+P0123,Proveedor_123,Soporte,4,2,2,4,2,SÃ­
+P0124,Proveedor_124,Infraestructura TI,4,4,3,3,2,No
+P0125,Proveedor_125,ConsultorÃ­a,5,2,5,1,1,SÃ­
+P0126,Proveedor_126,ConsultorÃ­a,2,5,4,2,1,SÃ­
+P0127,Proveedor_127,Soporte,3,5,2,5,0,SÃ­
+P0128,Proveedor_128,Infraestructura TI,3,4,3,1,0,SÃ­
+P0129,Proveedor_129,Seguridad,3,2,4,4,0,SÃ­
+P0130,Proveedor_130,Servicios Legales,4,5,4,5,1,SÃ­
+P0131,Proveedor_131,Servicios Legales,4,3,2,2,0,SÃ­
+P0132,Proveedor_132,Seguridad,2,1,1,2,5,SÃ­
+P0133,Proveedor_133,ConsultorÃ­a,3,1,2,3,1,SÃ­
+P0134,Proveedor_134,Infraestructura TI,3,1,3,5,0,SÃ­
+P0135,Proveedor_135,ConsultorÃ­a,5,2,4,3,1,No
+P0136,Proveedor_136,LogÃ­stica,4,4,2,1,0,SÃ­
+P0137,Proveedor_137,ConsultorÃ­a,3,5,1,5,1,SÃ­
+P0138,Proveedor_138,ConsultorÃ­a,2,3,2,1,2,SÃ­
+P0139,Proveedor_139,Seguridad,2,3,5,3,0,SÃ­
+P0140,Proveedor_140,Seguridad,3,2,1,5,2,SÃ­
+P0141,Proveedor_141,Seguridad,4,1,3,3,1,SÃ­
+P0142,Proveedor_142,Servicios Legales,2,2,4,5,1,SÃ­
+P0143,Proveedor_143,LogÃ­stica,5,4,2,3,2,No
+P0144,Proveedor_144,Seguridad,2,4,1,2,1,SÃ­
+P0145,Proveedor_145,Infraestructura TI,1,5,5,3,0,No
+P0146,Proveedor_146,Servicios Legales,1,5,1,2,0,SÃ­
+P0147,Proveedor_147,Soporte,4,4,5,3,0,No
+P0148,Proveedor_148,Infraestructura TI,3,4,3,5,0,No
+P0149,Proveedor_149,Infraestructura TI,4,4,4,5,2,SÃ­
+P0150,Proveedor_150,Seguridad,4,2,3,5,0,No
+P0151,Proveedor_151,Soporte,4,4,2,4,0,SÃ­
+P0152,Proveedor_152,Soporte,4,3,1,1,0,No
+P0153,Proveedor_153,Servicios Legales,5,1,5,5,1,SÃ­
+P0154,Proveedor_154,Soporte,5,4,5,2,0,SÃ­
+P0155,Proveedor_155,LogÃ­stica,2,1,1,5,2,SÃ­
+P0156,Proveedor_156,Seguridad,1,2,1,4,2,No
+P0157,Proveedor_157,Soporte,4,1,2,2,1,SÃ­
+P0158,Proveedor_158,Servicios Legales,2,2,3,4,0,SÃ­
+P0159,Proveedor_159,LogÃ­stica,1,3,5,2,0,SÃ­
+P0160,Proveedor_160,ConsultorÃ­a,3,2,2,3,0,No
+P0161,Proveedor_161,ConsultorÃ­a,5,2,3,1,1,SÃ­
+P0162,Proveedor_162,LogÃ­stica,1,5,2,1,2,SÃ­
+P0163,Proveedor_163,Servicios Legales,3,4,5,4,0,SÃ­
+P0164,Proveedor_164,LogÃ­stica,1,4,1,1,3,SÃ­
+P0165,Proveedor_165,Seguridad,5,3,1,4,1,SÃ­
+P0166,Proveedor_166,Seguridad,5,3,3,4,0,No
+P0167,Proveedor_167,ConsultorÃ­a,2,4,4,4,2,SÃ­
+P0168,Proveedor_168,Soporte,4,5,3,1,2,SÃ­
+P0169,Proveedor_169,Servicios Legales,1,4,4,4,0,SÃ­
+P0170,Proveedor_170,ConsultorÃ­a,1,5,2,1,1,SÃ­
+P0171,Proveedor_171,Soporte,3,3,2,4,2,SÃ­
+P0172,Proveedor_172,Soporte,5,1,5,5,2,SÃ­
+P0173,Proveedor_173,Seguridad,1,3,4,4,2,SÃ­
+P0174,Proveedor_174,Infraestructura TI,5,3,5,2,1,No
+P0175,Proveedor_175,Infraestructura TI,1,2,1,4,1,SÃ­
+P0176,Proveedor_176,LogÃ­stica,2,2,4,3,0,No
+P0177,Proveedor_177,Seguridad,4,2,3,4,3,No
+P0178,Proveedor_178,Soporte,1,2,1,2,0,SÃ­
+P0179,Proveedor_179,Servicios Legales,5,5,1,2,0,No
+P0180,Proveedor_180,Infraestructura TI,2,4,3,1,1,SÃ­
+P0181,Proveedor_181,Soporte,1,1,1,5,0,SÃ­
+P0182,Proveedor_182,Infraestructura TI,3,3,4,4,0,SÃ­
+P0183,Proveedor_183,Infraestructura TI,4,5,5,1,2,SÃ­
+P0184,Proveedor_184,Infraestructura TI,1,1,1,5,1,SÃ­
+P0185,Proveedor_185,Servicios Legales,2,5,4,4,1,SÃ­
+P0186,Proveedor_186,Seguridad,3,5,2,3,1,SÃ­
+P0187,Proveedor_187,Servicios Legales,2,3,4,4,2,SÃ­
+P0188,Proveedor_188,ConsultorÃ­a,2,4,5,2,2,No
+P0189,Proveedor_189,Soporte,3,2,4,2,1,SÃ­
+P0190,Proveedor_190,Seguridad,2,4,3,3,1,SÃ­
+P0191,Proveedor_191,Seguridad,3,3,5,1,1,SÃ­
+P0192,Proveedor_192,Seguridad,1,3,2,5,3,SÃ­
+P0193,Proveedor_193,Seguridad,3,3,3,4,1,SÃ­
+P0194,Proveedor_194,Servicios Legales,3,1,4,2,1,No
+P0195,Proveedor_195,Seguridad,4,4,5,1,0,SÃ­
+P0196,Proveedor_196,LogÃ­stica,3,4,2,3,2,SÃ­
+P0197,Proveedor_197,Soporte,3,5,3,2,1,No
+P0198,Proveedor_198,Seguridad,1,5,2,3,1,No
+P0199,Proveedor_199,Soporte,4,5,4,4,0,SÃ­
+P0200,Proveedor_200,LogÃ­stica,5,3,2,5,3,SÃ­
+P0201,Proveedor_201,LogÃ­stica,1,4,1,2,0,SÃ­
+P0202,Proveedor_202,Soporte,1,3,3,2,1,SÃ­
+P0203,Proveedor_203,Infraestructura TI,5,1,2,4,4,SÃ­
+P0204,Proveedor_204,ConsultorÃ­a,3,5,4,1,1,SÃ­
+P0205,Proveedor_205,Infraestructura TI,2,3,4,5,1,No
+P0206,Proveedor_206,Infraestructura TI,4,3,2,2,2,SÃ­
+P0207,Proveedor_207,Servicios Legales,2,1,4,5,1,SÃ­
+P0208,Proveedor_208,Infraestructura TI,5,2,5,2,1,SÃ­
+P0209,Proveedor_209,Seguridad,1,4,5,5,0,SÃ­
+P0210,Proveedor_210,Servicios Legales,1,2,5,3,0,SÃ­
+P0211,Proveedor_211,Servicios Legales,4,5,1,2,2,SÃ­
+P0212,Proveedor_212,LogÃ­stica,1,3,2,5,1,No
+P0213,Proveedor_213,Infraestructura TI,1,1,1,1,0,SÃ­
+P0214,Proveedor_214,LogÃ­stica,4,1,4,3,1,SÃ­
+P0215,Proveedor_215,Soporte,4,4,1,3,0,SÃ­
+P0216,Proveedor_216,ConsultorÃ­a,5,2,4,1,1,SÃ­
+P0217,Proveedor_217,Servicios Legales,1,4,4,5,1,SÃ­
+P0218,Proveedor_218,Soporte,1,3,3,4,2,SÃ­
+P0219,Proveedor_219,Soporte,5,4,5,1,2,SÃ­
+P0220,Proveedor_220,Seguridad,3,1,4,5,2,No
+P0221,Proveedor_221,ConsultorÃ­a,3,1,3,1,0,SÃ­
+P0222,Proveedor_222,Soporte,3,5,5,1,0,SÃ­
+P0223,Proveedor_223,Soporte,5,5,4,2,3,SÃ­
+P0224,Proveedor_224,ConsultorÃ­a,1,3,4,5,1,No
+P0225,Proveedor_225,ConsultorÃ­a,5,2,1,4,3,SÃ­
+P0226,Proveedor_226,Soporte,5,4,1,2,1,SÃ­
+P0227,Proveedor_227,ConsultorÃ­a,3,3,5,1,1,SÃ­
+P0228,Proveedor_228,Soporte,2,5,4,1,1,SÃ­
+P0229,Proveedor_229,Soporte,1,4,2,1,3,SÃ­
+P0230,Proveedor_230,Seguridad,3,5,1,5,0,SÃ­
+P0231,Proveedor_231,Infraestructura TI,2,4,5,5,0,SÃ­
+P0232,Proveedor_232,Soporte,2,2,4,2,3,SÃ­
+P0233,Proveedor_233,LogÃ­stica,4,3,4,4,3,No
+P0234,Proveedor_234,Servicios Legales,1,4,2,2,2,SÃ­
+P0235,Proveedor_235,Infraestructura TI,2,1,5,3,3,SÃ­
+P0236,Proveedor_236,Infraestructura TI,3,1,4,1,0,SÃ­
+P0237,Proveedor_237,Infraestructura TI,4,4,1,1,0,No
+P0238,Proveedor_238,Seguridad,1,4,2,1,1,SÃ­
+P0239,Proveedor_239,Soporte,5,4,5,2,1,No
+P0240,Proveedor_240,Seguridad,3,1,2,2,5,SÃ­
+P0241,Proveedor_241,Soporte,2,1,1,1,0,SÃ­
+P0242,Proveedor_242,Seguridad,2,4,5,2,1,No
+P0243,Proveedor_243,Seguridad,3,5,2,5,3,SÃ­
+P0244,Proveedor_244,Servicios Legales,2,5,3,5,0,SÃ­
+P0245,Proveedor_245,LogÃ­stica,4,2,1,2,2,No
+P0246,Proveedor_246,Seguridad,1,3,1,1,1,SÃ­
+P0247,Proveedor_247,Servicios Legales,4,5,1,2,1,SÃ­
+P0248,Proveedor_248,ConsultorÃ­a,2,1,3,2,2,SÃ­
+P0249,Proveedor_249,LogÃ­stica,5,5,3,2,0,SÃ­
+P0250,Proveedor_250,Seguridad,1,2,4,3,2,SÃ­
+P0251,Proveedor_251,Infraestructura TI,1,2,2,5,0,SÃ­
+P0252,Proveedor_252,ConsultorÃ­a,3,3,4,4,0,SÃ­
+P0253,Proveedor_253,ConsultorÃ­a,3,5,2,4,0,SÃ­
+P0254,Proveedor_254,Servicios Legales,5,1,3,3,2,SÃ­
+P0255,Proveedor_255,ConsultorÃ­a,1,1,3,2,1,No
+P0256,Proveedor_256,LogÃ­stica,5,4,4,3,2,SÃ­
+P0257,Proveedor_257,Seguridad,3,1,5,3,2,No
+P0258,Proveedor_258,Seguridad,3,3,4,1,0,SÃ­
+P0259,Proveedor_259,Infraestructura TI,1,3,2,5,1,SÃ­
+P0260,Proveedor_260,Servicios Legales,4,1,4,4,4,SÃ­
+P0261,Proveedor_261,Infraestructura TI,2,1,1,2,1,SÃ­
+P0262,Proveedor_262,ConsultorÃ­a,3,4,2,4,2,SÃ­
+P0263,Proveedor_263,Infraestructura TI,3,1,2,4,1,SÃ­
+P0264,Proveedor_264,LogÃ­stica,4,4,5,5,2,SÃ­
+P0265,Proveedor_265,Seguridad,4,4,3,4,0,No
+P0266,Proveedor_266,ConsultorÃ­a,5,1,2,4,1,SÃ­
+P0267,Proveedor_267,Infraestructura TI,5,2,3,3,0,SÃ­
+P0268,Proveedor_268,Servicios Legales,2,2,4,5,1,SÃ­
+P0269,Proveedor_269,LogÃ­stica,2,4,1,1,3,SÃ­
+P0270,Proveedor_270,LogÃ­stica,1,1,5,2,1,SÃ­
+P0271,Proveedor_271,Infraestructura TI,5,2,3,4,0,SÃ­
+P0272,Proveedor_272,Seguridad,3,1,2,2,0,No
+P0273,Proveedor_273,Infraestructura TI,5,1,3,1,0,SÃ­
+P0274,Proveedor_274,ConsultorÃ­a,3,1,2,2,1,SÃ­
+P0275,Proveedor_275,Infraestructura TI,4,5,3,1,2,SÃ­
+P0276,Proveedor_276,LogÃ­stica,5,1,2,3,1,SÃ­
+P0277,Proveedor_277,Infraestructura TI,4,5,4,4,4,SÃ­
+P0278,Proveedor_278,Seguridad,2,4,2,1,2,SÃ­
+P0279,Proveedor_279,Servicios Legales,2,2,2,2,1,SÃ­
+P0280,Proveedor_280,Soporte,1,2,1,4,1,SÃ­
+P0281,Proveedor_281,Infraestructura TI,5,2,2,3,1,SÃ­
+P0282,Proveedor_282,Seguridad,4,2,1,4,1,SÃ­
+P0283,Proveedor_283,Seguridad,3,2,5,1,0,SÃ­
+P0284,Proveedor_284,Servicios Legales,2,2,1,3,1,SÃ­
+P0285,Proveedor_285,LogÃ­stica,2,2,4,2,2,SÃ­
+P0286,Proveedor_286,Seguridad,3,4,1,3,1,No
+P0287,Proveedor_287,Seguridad,4,1,5,3,3,No
+P0288,Proveedor_288,Seguridad,4,3,4,5,0,No
+P0289,Proveedor_289,Seguridad,5,5,3,3,0,SÃ­
+P0290,Proveedor_290,ConsultorÃ­a,5,3,3,3,1,SÃ­
+P0291,Proveedor_291,ConsultorÃ­a,1,3,1,4,1,SÃ­
+P0292,Proveedor_292,LogÃ­stica,2,1,1,2,0,No
+P0293,Proveedor_293,Infraestructura TI,5,1,5,4,2,SÃ­
+P0294,Proveedor_294,Seguridad,4,1,5,4,1,No
+P0295,Proveedor_295,Servicios Legales,3,2,2,1,2,No
+P0296,Proveedor_296,Infraestructura TI,4,4,5,4,2,SÃ­
+P0297,Proveedor_297,Servicios Legales,2,2,2,5,0,SÃ­
+P0298,Proveedor_298,Infraestructura TI,4,4,4,5,0,SÃ­
+P0299,Proveedor_299,LogÃ­stica,1,4,1,1,1,No
+P0300,Proveedor_300,Seguridad,2,3,4,2,1,SÃ­
+P0301,Proveedor_301,Seguridad,3,3,5,2,1,No
+P0302,Proveedor_302,Soporte,1,4,4,4,0,SÃ­
+P0303,Proveedor_303,Servicios Legales,2,4,4,4,1,SÃ­
+P0304,Proveedor_304,Infraestructura TI,3,2,4,4,0,No
+P0305,Proveedor_305,Infraestructura TI,1,2,5,2,0,SÃ­
+P0306,Proveedor_306,ConsultorÃ­a,1,3,4,3,2,SÃ­
+P0307,Proveedor_307,Soporte,2,1,2,5,0,SÃ­
+P0308,Proveedor_308,ConsultorÃ­a,5,4,5,3,0,SÃ­
+P0309,Proveedor_309,ConsultorÃ­a,1,2,4,3,2,SÃ­
+P0310,Proveedor_310,ConsultorÃ­a,1,3,5,2,3,SÃ­
+P0311,Proveedor_311,Servicios Legales,3,2,3,3,0,No
+P0312,Proveedor_312,Servicios Legales,4,4,2,1,0,No
+P0313,Proveedor_313,LogÃ­stica,2,4,4,4,0,SÃ­
+P0314,Proveedor_314,LogÃ­stica,2,5,3,1,0,SÃ­
+P0315,Proveedor_315,ConsultorÃ­a,5,1,3,5,2,SÃ­
+P0316,Proveedor_316,Soporte,5,5,5,4,2,SÃ­
+P0317,Proveedor_317,Infraestructura TI,2,3,3,3,1,No
+P0318,Proveedor_318,Servicios Legales,5,2,2,5,1,SÃ­
+P0319,Proveedor_319,Soporte,3,3,2,4,0,SÃ­
+P0320,Proveedor_320,Seguridad,2,4,1,3,1,SÃ­
+P0321,Proveedor_321,Servicios Legales,5,5,2,1,1,SÃ­
+P0322,Proveedor_322,Servicios Legales,2,5,3,4,0,SÃ­
+P0323,Proveedor_323,LogÃ­stica,4,5,2,3,2,SÃ­
+P0324,Proveedor_324,Infraestructura TI,1,3,5,1,2,SÃ­
+P0325,Proveedor_325,Infraestructura TI,2,4,1,5,0,SÃ­
+P0326,Proveedor_326,Seguridad,1,2,3,5,2,SÃ­
+P0327,Proveedor_327,Seguridad,5,2,1,5,0,SÃ­
+P0328,Proveedor_328,Servicios Legales,1,3,3,5,0,SÃ­
+P0329,Proveedor_329,ConsultorÃ­a,2,5,5,2,1,SÃ­
+P0330,Proveedor_330,LogÃ­stica,4,1,1,4,0,SÃ­
+P0331,Proveedor_331,LogÃ­stica,5,3,4,4,1,SÃ­
+P0332,Proveedor_332,Servicios Legales,2,3,3,2,0,SÃ­
+P0333,Proveedor_333,Soporte,5,4,4,3,0,SÃ­
+P0334,Proveedor_334,ConsultorÃ­a,3,2,1,3,0,No
+P0335,Proveedor_335,Servicios Legales,1,3,4,5,0,No
+P0336,Proveedor_336,ConsultorÃ­a,3,3,4,1,1,SÃ­
+P0337,Proveedor_337,ConsultorÃ­a,2,5,1,3,0,No
+P0338,Proveedor_338,ConsultorÃ­a,4,5,5,1,2,SÃ­
+P0339,Proveedor_339,Servicios Legales,5,1,4,4,1,SÃ­
+P0340,Proveedor_340,LogÃ­stica,1,4,4,1,1,SÃ­
+P0341,Proveedor_341,LogÃ­stica,5,1,5,4,1,SÃ­
+P0342,Proveedor_342,ConsultorÃ­a,2,5,4,2,0,SÃ­
+P0343,Proveedor_343,Soporte,5,2,4,2,1,SÃ­
+P0344,Proveedor_344,Infraestructura TI,1,5,4,5,3,SÃ­
+P0345,Proveedor_345,Servicios Legales,2,4,2,3,1,SÃ­
+P0346,Proveedor_346,Infraestructura TI,5,5,5,5,2,SÃ­
+P0347,Proveedor_347,Soporte,4,4,4,4,1,No
+P0348,Proveedor_348,Servicios Legales,2,4,5,5,1,SÃ­
+P0349,Proveedor_349,ConsultorÃ­a,2,4,3,1,3,SÃ­
+P0350,Proveedor_350,LogÃ­stica,4,4,3,4,3,SÃ­
+P0351,Proveedor_351,Infraestructura TI,3,4,4,2,0,SÃ­
+P0352,Proveedor_352,Seguridad,1,2,5,3,2,SÃ­
+P0353,Proveedor_353,Seguridad,3,1,5,4,0,SÃ­
+P0354,Proveedor_354,Soporte,5,3,5,4,4,SÃ­
+P0355,Proveedor_355,ConsultorÃ­a,4,1,2,1,0,SÃ­
+P0356,Proveedor_356,Infraestructura TI,3,4,3,3,0,SÃ­
+P0357,Proveedor_357,ConsultorÃ­a,2,2,5,2,0,SÃ­
+P0358,Proveedor_358,Infraestructura TI,5,5,5,4,1,SÃ­
+P0359,Proveedor_359,Soporte,5,2,2,4,2,SÃ­
+P0360,Proveedor_360,Soporte,3,4,2,1,2,SÃ­
+P0361,Proveedor_361,Seguridad,3,2,5,5,0,SÃ­
+P0362,Proveedor_362,ConsultorÃ­a,4,2,1,2,0,No
+P0363,Proveedor_363,Servicios Legales,1,4,5,3,0,No
+P0364,Proveedor_364,Seguridad,3,2,5,4,1,No
+P0365,Proveedor_365,ConsultorÃ­a,3,3,2,4,0,SÃ­
+P0366,Proveedor_366,Seguridad,2,3,2,2,2,SÃ­
+P0367,Proveedor_367,Servicios Legales,5,2,5,5,1,SÃ­
+P0368,Proveedor_368,LogÃ­stica,1,5,5,4,3,SÃ­
+P0369,Proveedor_369,LogÃ­stica,2,4,5,2,0,SÃ­
+P0370,Proveedor_370,LogÃ­stica,4,3,2,1,2,SÃ­
+P0371,Proveedor_371,LogÃ­stica,4,5,5,5,2,No
+P0372,Proveedor_372,Infraestructura TI,3,2,5,3,2,SÃ­
+P0373,Proveedor_373,LogÃ­stica,3,5,4,4,0,No
+P0374,Proveedor_374,Servicios Legales,4,1,1,2,1,SÃ­
+P0375,Proveedor_375,Soporte,3,3,3,1,1,SÃ­
+P0376,Proveedor_376,Soporte,1,2,1,3,1,SÃ­
+P0377,Proveedor_377,Infraestructura TI,3,4,4,2,2,SÃ­
+P0378,Proveedor_378,LogÃ­stica,5,2,3,2,1,SÃ­
+P0379,Proveedor_379,LogÃ­stica,3,4,5,3,1,SÃ­
+P0380,Proveedor_380,LogÃ­stica,2,2,4,1,1,SÃ­
+P0381,Proveedor_381,Seguridad,1,5,5,1,1,SÃ­
+P0382,Proveedor_382,ConsultorÃ­a,2,5,2,5,1,No
+P0383,Proveedor_383,Seguridad,2,5,4,4,1,No
+P0384,Proveedor_384,ConsultorÃ­a,5,1,2,3,1,No
+P0385,Proveedor_385,LogÃ­stica,1,4,4,3,1,SÃ­
+P0386,Proveedor_386,LogÃ­stica,1,5,4,3,2,SÃ­
+P0387,Proveedor_387,Seguridad,1,1,2,1,0,SÃ­
+P0388,Proveedor_388,Seguridad,1,4,3,4,0,SÃ­
+P0389,Proveedor_389,ConsultorÃ­a,1,2,1,5,0,SÃ­
+P0390,Proveedor_390,Soporte,5,1,5,2,0,SÃ­
+P0391,Proveedor_391,ConsultorÃ­a,3,3,4,2,1,SÃ­
+P0392,Proveedor_392,Seguridad,2,1,5,3,0,SÃ­
+P0393,Proveedor_393,Servicios Legales,1,1,2,4,1,SÃ­
+P0394,Proveedor_394,Seguridad,3,4,5,1,2,SÃ­
+P0395,Proveedor_395,Servicios Legales,3,2,2,4,0,SÃ­
+P0396,Proveedor_396,Infraestructura TI,2,3,5,4,1,SÃ­
+P0397,Proveedor_397,Seguridad,5,5,1,1,3,SÃ­
+P0398,Proveedor_398,Infraestructura TI,4,5,1,3,2,SÃ­
+P0399,Proveedor_399,Soporte,4,1,1,4,0,SÃ­
+P0400,Proveedor_400,ConsultorÃ­a,3,4,1,2,1,SÃ­
+P0401,Proveedor_401,Servicios Legales,2,4,1,1,1,SÃ­
+P0402,Proveedor_402,ConsultorÃ­a,4,5,1,5,1,SÃ­
+P0403,Proveedor_403,Infraestructura TI,3,3,2,3,3,SÃ­
+P0404,Proveedor_404,Servicios Legales,5,2,4,1,2,SÃ­
+P0405,Proveedor_405,ConsultorÃ­a,4,3,5,5,1,No
+P0406,Proveedor_406,Seguridad,3,2,1,5,1,SÃ­
+P0407,Proveedor_407,LogÃ­stica,3,5,2,4,2,SÃ­
+P0408,Proveedor_408,Infraestructura TI,1,2,2,4,1,SÃ­
+P0409,Proveedor_409,ConsultorÃ­a,5,4,2,4,0,SÃ­
+P0410,Proveedor_410,Infraestructura TI,1,1,4,1,0,SÃ­
+P0411,Proveedor_411,Infraestructura TI,2,1,5,1,0,SÃ­
+P0412,Proveedor_412,Servicios Legales,1,5,4,3,1,SÃ­
+P0413,Proveedor_413,Servicios Legales,1,4,3,4,1,SÃ­
+P0414,Proveedor_414,LogÃ­stica,4,3,2,5,1,SÃ­
+P0415,Proveedor_415,Seguridad,3,4,3,2,1,SÃ­
+P0416,Proveedor_416,Infraestructura TI,5,1,1,3,1,No
+P0417,Proveedor_417,ConsultorÃ­a,1,1,1,1,1,SÃ­
+P0418,Proveedor_418,Soporte,5,4,4,3,1,No
+P0419,Proveedor_419,Infraestructura TI,1,4,5,3,1,SÃ­
+P0420,Proveedor_420,Infraestructura TI,2,1,3,3,1,No
+P0421,Proveedor_421,LogÃ­stica,1,3,5,3,1,No
+P0422,Proveedor_422,Seguridad,4,5,4,2,0,SÃ­
+P0423,Proveedor_423,Soporte,3,5,1,4,1,SÃ­
+P0424,Proveedor_424,Servicios Legales,2,4,5,5,3,SÃ­
+P0425,Proveedor_425,Servicios Legales,1,5,5,3,1,SÃ­
+P0426,Proveedor_426,ConsultorÃ­a,5,1,1,3,3,SÃ­
+P0427,Proveedor_427,Soporte,2,1,3,3,1,SÃ­
+P0428,Proveedor_428,Servicios Legales,2,4,1,4,1,SÃ­
+P0429,Proveedor_429,ConsultorÃ­a,1,4,5,1,2,SÃ­
+P0430,Proveedor_430,Seguridad,2,4,3,1,0,No
+P0431,Proveedor_431,ConsultorÃ­a,5,3,3,2,1,SÃ­
+P0432,Proveedor_432,Servicios Legales,2,5,1,1,1,SÃ­
+P0433,Proveedor_433,LogÃ­stica,5,4,5,3,0,SÃ­
+P0434,Proveedor_434,LogÃ­stica,1,2,4,3,0,No
+P0435,Proveedor_435,LogÃ­stica,3,2,5,3,1,SÃ­
+P0436,Proveedor_436,Servicios Legales,2,1,2,2,2,SÃ­
+P0437,Proveedor_437,LogÃ­stica,3,5,4,3,3,SÃ­
+P0438,Proveedor_438,Soporte,5,4,3,1,2,SÃ­
+P0439,Proveedor_439,Seguridad,2,2,4,4,1,SÃ­
+P0440,Proveedor_440,ConsultorÃ­a,4,5,3,4,2,No
+P0441,Proveedor_441,ConsultorÃ­a,3,1,3,5,0,SÃ­
+P0442,Proveedor_442,Servicios Legales,2,3,4,1,1,SÃ­
+P0443,Proveedor_443,LogÃ­stica,3,5,3,3,2,No
+P0444,Proveedor_444,LogÃ­stica,2,5,3,4,3,SÃ­
+P0445,Proveedor_445,Infraestructura TI,1,3,2,1,0,SÃ­
+P0446,Proveedor_446,Seguridad,3,5,5,4,0,No
+P0447,Proveedor_447,Soporte,4,1,5,3,0,SÃ­
+P0448,Proveedor_448,ConsultorÃ­a,4,1,2,4,1,SÃ­
+P0449,Proveedor_449,Infraestructura TI,5,3,4,5,1,SÃ­
+P0450,Proveedor_450,Infraestructura TI,2,4,1,5,2,SÃ­
+P0451,Proveedor_451,Servicios Legales,3,2,1,4,0,SÃ­
+P0452,Proveedor_452,ConsultorÃ­a,5,4,1,1,1,SÃ­
+P0453,Proveedor_453,Servicios Legales,3,5,2,1,0,SÃ­
+P0454,Proveedor_454,Soporte,2,2,2,1,0,No
+P0455,Proveedor_455,Infraestructura TI,4,3,3,4,1,SÃ­
+P0456,Proveedor_456,Infraestructura TI,1,3,1,1,1,No
+P0457,Proveedor_457,Seguridad,4,2,4,3,1,No
+P0458,Proveedor_458,Soporte,5,1,4,5,2,SÃ­
+P0459,Proveedor_459,Infraestructura TI,1,2,1,3,1,SÃ­
+P0460,Proveedor_460,Soporte,5,5,1,1,1,SÃ­
+P0461,Proveedor_461,ConsultorÃ­a,2,1,1,3,1,SÃ­
+P0462,Proveedor_462,LogÃ­stica,1,3,2,1,1,No
+P0463,Proveedor_463,Infraestructura TI,5,2,2,4,2,SÃ­
+P0464,Proveedor_464,Seguridad,2,4,2,3,0,SÃ­
+P0465,Proveedor_465,ConsultorÃ­a,4,4,5,4,0,SÃ­
+P0466,Proveedor_466,Soporte,2,5,4,4,0,SÃ­
+P0467,Proveedor_467,Servicios Legales,3,4,4,2,0,SÃ­
+P0468,Proveedor_468,ConsultorÃ­a,2,2,3,1,0,SÃ­
+P0469,Proveedor_469,Infraestructura TI,2,2,2,5,0,SÃ­
+P0470,Proveedor_470,Soporte,3,4,5,1,3,SÃ­
+P0471,Proveedor_471,LogÃ­stica,5,2,5,5,3,SÃ­
+P0472,Proveedor_472,ConsultorÃ­a,5,5,4,1,1,SÃ­
+P0473,Proveedor_473,Infraestructura TI,2,1,2,4,0,SÃ­
+P0474,Proveedor_474,Seguridad,3,5,3,3,1,No
+P0475,Proveedor_475,Servicios Legales,3,5,2,3,0,SÃ­
+P0476,Proveedor_476,Soporte,4,2,1,2,2,SÃ­
+P0477,Proveedor_477,ConsultorÃ­a,5,1,2,5,3,SÃ­
+P0478,Proveedor_478,ConsultorÃ­a,1,2,1,5,0,SÃ­
+P0479,Proveedor_479,LogÃ­stica,5,3,1,5,4,No
+P0480,Proveedor_480,LogÃ­stica,5,2,3,4,2,SÃ­
+P0481,Proveedor_481,Seguridad,4,2,4,5,1,SÃ­
+P0482,Proveedor_482,Servicios Legales,1,2,2,3,0,SÃ­
+P0483,Proveedor_483,Seguridad,4,1,1,4,3,SÃ­
+P0484,Proveedor_484,Infraestructura TI,1,2,2,1,1,SÃ­
+P0485,Proveedor_485,Infraestructura TI,2,1,4,5,1,SÃ­
+P0486,Proveedor_486,Seguridad,1,4,4,5,0,SÃ­
+P0487,Proveedor_487,Servicios Legales,4,3,5,1,0,SÃ­
+P0488,Proveedor_488,Seguridad,5,1,4,5,1,SÃ­
+P0489,Proveedor_489,Servicios Legales,1,4,3,1,1,No
+P0490,Proveedor_490,Servicios Legales,1,1,1,4,1,SÃ­
+P0491,Proveedor_491,Soporte,3,1,5,3,1,SÃ­
+P0492,Proveedor_492,Servicios Legales,5,3,3,1,0,SÃ­
+P0493,Proveedor_493,LogÃ­stica,2,5,2,2,0,No
+P0494,Proveedor_494,Servicios Legales,4,5,1,1,0,SÃ­
+P0495,Proveedor_495,Servicios Legales,2,1,4,5,0,No
+P0496,Proveedor_496,Servicios Legales,5,2,1,4,1,SÃ­
+P0497,Proveedor_497,Infraestructura TI,1,4,2,4,2,SÃ­
+P0498,Proveedor_498,LogÃ­stica,1,2,5,1,2,SÃ­
+P0499,Proveedor_499,LogÃ­stica,5,2,5,3,1,SÃ­
+P0500,Proveedor_500,Seguridad,1,1,5,2,1,SÃ­
